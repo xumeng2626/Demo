@@ -8,8 +8,7 @@ This folder contains two seperated demos: Legodemo and Cabledemo.
 
 1. **Clone the repository:**
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/xumeng2626/Demo.git
     ```
 
 2. **Create and activate a virtual environment:**
@@ -100,13 +99,12 @@ This folder contains two seperated demos: Legodemo and Cabledemo.
 
 1. **Clone the repository:**
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/xumeng2626/Demo.git
     ```
 
 2. **Create and activate a virtual environment:**
     ```sh
-    python -m venv venv
+    python -m venv venv2
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
