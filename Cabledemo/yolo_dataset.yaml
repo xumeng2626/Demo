@@ -1,0 +1,9 @@
+path: ../Data/Blender  # dataset root dir
+train: images/v5m6_noocc/Dataset/train/class0 # train images (relative to 'path')
+val: images/v5m6_noocc/Dataset/val/class0  # val images (relative to 'path')
+test: images/v5m6_noocc/Dataset/test/class0
+
+# Classes
+nc: 6
+names: ['alu_part', 'Oring', 'coupling_nut', 'coupling_nut_2', 'Oring_2', 'alu_part_2']
+# names: ['alu_part', 'alu_part_2','coupling_nut', 'coupling_nut_2' 'Oring','Oring_2'] #

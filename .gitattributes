@@ -1,0 +1,6 @@
+*.pt filter=lfs diff=lfs merge=lfs -text
+Cabledemo/runs/train/v5m6/best.pt filter=lfs diff=lfs merge=lfs -text
+Legodemo/best.pt filter=lfs diff=lfs merge=lfs -text
+Legodemo/weights/best.pt filter=lfs diff=lfs merge=lfs -text
+Demo/Legodemo/weights/best.pt filter=lfs diff=lfs merge=lfs -text
+Demo/Cabledemo/runs/train/v5m6/best.pt filter=lfs diff=lfs merge=lfs -text

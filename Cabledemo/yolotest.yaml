@@ -1,0 +1,9 @@
+path: ../Data/Val_set2  # dataset root dir
+train: images/v5m6_noparts/Dataset/train/class0 # train images (relative to 'path')
+val: combined/images  # val images (relative to 'path')  20230222174407   20230222174702  20230222174727
+test: images
+
+# Classes
+nc: 6
+names: ['alu_part', 'Oring', 'coupling_nut', 'coupling_nut_2', 'Oring_2', 'alu_part_2']
+# names: ['alu_part', 'alu_part_2','coupling_nut', 'coupling_nut_2' 'Oring','Oring_2'] #

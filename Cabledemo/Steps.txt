@@ -1,0 +1,7 @@
+Step 0
+Connection_R 0
+O-ring_R 0
+Coupling_R 0
+Coupling_B 1
+O-ring_B 0
+Connection_B 0
